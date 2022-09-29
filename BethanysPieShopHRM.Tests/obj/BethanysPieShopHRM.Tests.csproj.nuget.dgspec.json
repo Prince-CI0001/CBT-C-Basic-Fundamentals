@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\BethanysPieShopHRM.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\BethanysPieShopHRM.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\BethanysPieShopHRM.Tests.csproj",
+        "projectName": "BethanysPieShopHRM.Tests",
+        "projectPath": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\BethanysPieShopHRM.Tests.csproj",
+        "packagesPath": "C:\\Users\\PrinceGoyal\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PrinceGoyal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj": {
+                "projectPath": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+        "projectName": "BethanysPieShopHRM",
+        "projectPath": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+        "packagesPath": "C:\\Users\\PrinceGoyal\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\PrinceGoyal\\Desktop\\C#\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PrinceGoyal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
